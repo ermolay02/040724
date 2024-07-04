@@ -1,13 +1,10 @@
-test 02072024 1646
-hukgyhik
-04072024 
-rfgg
 
+04072024
 
-после обеда
-
-после обеда
-
-после обеда
-dfhdfrh
-
+git init
+git add .
+git commit -m "frgdrfh"
+git remote add origin https://github.com/ermolay02/040724.git
+git branch -M master
+git push -u origin master
+OK!
